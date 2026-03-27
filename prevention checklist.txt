@@ -1,0 +1,15 @@
+prevention checklist 
+
+1.	Never share your OTP, passwords, or UPI PIN with anyone, even if they claim to be bank officials. (UPI safety) 
+2.	Always check whether you are sending money or receiving money before entering your UPI PIN in any payment app. (UPI safety) 
+3.	Do not click suspicious links received through SMS, WhatsApp, email, or social media. 
+4.	Use strong and unique passwords for your email, banking apps, and social media accounts. 
+5.	Enable two-factor authentication (2FA) wherever possible for extra account security. 
+6.	Avoid using public Wi-Fi for logging into banking or important personal accounts. 
+7.	Download apps only from trusted sources like the Google Play Store or official websites. 
+8.	Keep your phone and laptop updated with antivirus software and system updates. 
+9.	Do not share personal information like Aadhaar number, bank details, or college ID publicly online. 
+10.	Always verify unknown calls claiming to be from banks, delivery agents, or technical support before responding. 
+Report Cybercrime Immediately:
+•	National Cyber Crime Portal: https://cybercrime.gov.in 
+•	Cyber Crime Helpline Number: 1930 (24×7
